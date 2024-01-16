@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm PrasannaKumar Reddy
 I'm currently pursuing a Master's degree in Artificial Intelligence in Data Science.Earlier I worked as a senior software engineer at Carelon Global Solutions(Elevance Health), a leading provider of cloud-based solutions for the healthcare industry. 
 
-### Currently I am working with tools...
+### Experience in technlogies :
 
 <!-- Cloud Technologies -->
 <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -24,7 +24,7 @@ I'm currently pursuing a Master's degree in Artificial Intelligence in Data Scie
 <!-- Infrastructure as code -->
 <a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp; 
 
-### Linkedin ...
+### Linkedin Profile
 
 <a href="https://www.linkedin.com/in/prasannakumar-reddy/" title="PrasannKumarReddy" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 
