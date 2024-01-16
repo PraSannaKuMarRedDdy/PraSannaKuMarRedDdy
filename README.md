@@ -21,6 +21,9 @@ I'm currently pursuing a Master's degree in Artificial Intelligence in Data Scie
 <a href="" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
+<!-- Infrastructure as code -->
+<a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp; 
+
 ### Linkedin ...
 
 <a href="https://www.linkedin.com/in/prasannakumar-reddy/" title="PrasannKumarReddy" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
