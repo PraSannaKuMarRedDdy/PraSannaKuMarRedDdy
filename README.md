@@ -17,6 +17,7 @@ I'm currently pursuing a Master's degree in Artificial Intelligence in Data Scie
 <a href="" target="_blank" title="Ansible" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitLab" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitLab" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 <!-- Containerization and Orchestration -->
@@ -25,7 +26,9 @@ I'm currently pursuing a Master's degree in Artificial Intelligence in Data Scie
 
 
 <!-- Infrastructure as code -->
-<a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp; 
+<a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### Linkedin Profile
 
